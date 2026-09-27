@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:18:11.755452+00:00",
+  "generated_at": "2026-09-27T14:25:30.736768+00:00",
   "icps": [
     {
       "name": "The Data-Fatigued Momentum Trader",
@@ -128,13 +128,13 @@
       "claim": "78% of active retail traders experience cognitive burnout from conflicting alerts.",
       "source": "https://www.financial-psychology-journal.org/retail-trading-noise-2026",
       "source_type": "Tavily",
-      "retrieved_at": "2026-09-27T14:18:11.755398+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.736735+00:00"
     },
     {
       "claim": "Self-directed investors prioritize noise-reduction and sentiment consensus over day-trading squawks.",
       "source": "https://stanford-market-research.edu/crowd-wisdom-accuracy",
       "source_type": "Exa",
-      "retrieved_at": "2026-09-27T14:18:11.755435+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.736759+00:00"
     }
   ]
 }

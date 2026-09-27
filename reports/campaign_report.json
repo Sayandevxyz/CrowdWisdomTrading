@@ -1,6 +1,6 @@
 {
   "campaign_id": "CWT-001",
-  "generated_at": "2026-09-27T14:18:11.863001+00:00",
+  "generated_at": "2026-09-27T14:25:30.799050+00:00",
   "research_summary": {
     "total_competitor_ads_evaluated": 6,
     "selected_ads": 6,
@@ -276,91 +276,91 @@
       "claim": "A study of 12,000 active retail traders found that 78% report 'severe decision paralysis' due to conflicting signals across Twitter/X, Discord channels, and YouTube. Over 65% enter",
       "source": "https://www.financial-psychology-journal.org/retail-trading-noise-2026",
       "source_type": "Tavily",
-      "retrieved_at": "2026-09-27T14:18:11.748715+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731278+00:00"
     },
     {
       "claim": "Retail investors frequently trade against prevailing crowd sentiment without realizing it. When sentiment reaches extreme euphoria or panic, divergence indicators provide high-conv",
       "source": "https://markets-intelligence.com/retail-sentiment-dilemma",
       "source_type": "Tavily",
-      "retrieved_at": "2026-09-27T14:18:11.748756+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731321+00:00"
     },
     {
       "claim": "Traders report opening an average of 14 tabs including charting, news feeds, and chatrooms before each trade. The primary frustration cited is 'too much noise, zero unified truth'.",
       "source": "https://trader-workflow-insights.io/decision-fatigue-survey",
       "source_type": "Tavily",
-      "retrieved_at": "2026-09-27T14:18:11.748767+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731333+00:00"
     },
     {
       "claim": "Over 70% of retail options and equity traders confess that FOMO causes them to chase green candles. Once entered, panic sets in at the first retracement.",
       "source": "https://fintech-review.org/retail-trader-fatigue-2026",
       "source_type": "Exa",
-      "retrieved_at": "2026-09-27T14:18:11.749061+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731653+00:00"
     },
     {
       "claim": "Aggregated crowd sentiment, when appropriately de-noised, outperforms individual expert forecasts by 22%. The primary obstacle for retail is filtering spam bots.",
       "source": "https://stanford-market-research.edu/crowd-wisdom-accuracy",
       "source_type": "Exa",
-      "retrieved_at": "2026-09-27T14:18:11.749082+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731676+00:00"
     },
     {
       "claim": "78% of active retail traders experience cognitive burnout from conflicting alerts.",
       "source": "https://www.financial-psychology-journal.org/retail-trading-noise-2026",
       "source_type": "Tavily",
-      "retrieved_at": "2026-09-27T14:18:11.755398+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.736735+00:00"
     },
     {
       "claim": "Self-directed investors prioritize noise-reduction and sentiment consensus over day-trading squawks.",
       "source": "https://stanford-market-research.edu/crowd-wisdom-accuracy",
       "source_type": "Exa",
-      "retrieved_at": "2026-09-27T14:18:11.755435+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.736759+00:00"
     },
     {
       "claim": "Approved CrowdWisdom capabilities",
       "source": "https://www.youtube.com/watch?v=TiycelzfzC0 (Core CrowdWisdom Platform Demo & Sentiment Consensus)",
       "source_type": "CrowdWisdom",
-      "retrieved_at": "2026-09-27T14:18:11.862899+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.798937+00:00"
     },
     {
       "claim": "Approved CrowdWisdom capabilities",
       "source": "https://drive.google.com/drive/folders/1uCVp8Q8ZE98qwy2N4ClPpdbR55xl36UJ (Brand Guidelines, Visual Assets, Feature Overviews)",
       "source_type": "CrowdWisdom",
-      "retrieved_at": "2026-09-27T14:18:11.862925+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.798970+00:00"
     },
     {
       "claim": "Approved CrowdWisdom capabilities",
       "source": "https://www.youtube.com/watch?v=UBvrPGMtK5g (Crowd Sentiment vs Price Momentum Analysis)",
       "source_type": "CrowdWisdom",
-      "retrieved_at": "2026-09-27T14:18:11.862940+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.798980+00:00"
     },
     {
       "claim": "Approved CrowdWisdom capabilities",
       "source": "https://www.youtube.com/watch?v=JFMxDgmW8cw (Divergence Indicator Case Studies)",
       "source_type": "CrowdWisdom",
-      "retrieved_at": "2026-09-27T14:18:11.862952+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.798990+00:00"
     },
     {
       "claim": "Approved CrowdWisdom capabilities",
       "source": "https://www.youtube.com/watch?v=8nFTkjPk80k (Filtering Social Noise in Stock Selection)",
       "source_type": "CrowdWisdom",
-      "retrieved_at": "2026-09-27T14:18:11.862960+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.799002+00:00"
     },
     {
       "claim": "Approved CrowdWisdom capabilities",
       "source": "https://www.youtube.com/watch?v=bpM9D1kQaAs (Market Intelligence Dashboard Walkthrough)",
       "source_type": "CrowdWisdom",
-      "retrieved_at": "2026-09-27T14:18:11.862969+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.799012+00:00"
     },
     {
       "claim": "Approved CrowdWisdom capabilities",
       "source": "https://www.youtube.com/watch?v=g-qW8fQimyg (Wisdom of the Crowds in Volatility Regimes)",
       "source_type": "CrowdWisdom",
-      "retrieved_at": "2026-09-27T14:18:11.862978+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.799025+00:00"
     },
     {
       "claim": "Approved CrowdWisdom capabilities",
       "source": "https://www.youtube.com/watch?v=vqFUuLO06qc (Community Prediction Accuracy Metrics)",
       "source_type": "CrowdWisdom",
-      "retrieved_at": "2026-09-27T14:18:11.862987+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.799035+00:00"
     }
   ],
   "run_metadata": {

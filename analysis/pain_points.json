@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-09-27T14:18:11.749235+00:00",
+  "retrieved_at": "2026-09-27T14:25:30.731841+00:00",
   "search_queries": [
     "retail traders biggest frustrations market noise",
     "active traders information overload decision paralysis survey",
@@ -61,31 +61,31 @@
       "claim": "A study of 12,000 active retail traders found that 78% report 'severe decision paralysis' due to conflicting signals across Twitter/X, Discord channels, and YouTube. Over 65% enter",
       "source": "https://www.financial-psychology-journal.org/retail-trading-noise-2026",
       "source_type": "Tavily",
-      "retrieved_at": "2026-09-27T14:18:11.748715+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731278+00:00"
     },
     {
       "claim": "Retail investors frequently trade against prevailing crowd sentiment without realizing it. When sentiment reaches extreme euphoria or panic, divergence indicators provide high-conv",
       "source": "https://markets-intelligence.com/retail-sentiment-dilemma",
       "source_type": "Tavily",
-      "retrieved_at": "2026-09-27T14:18:11.748756+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731321+00:00"
     },
     {
       "claim": "Traders report opening an average of 14 tabs including charting, news feeds, and chatrooms before each trade. The primary frustration cited is 'too much noise, zero unified truth'.",
       "source": "https://trader-workflow-insights.io/decision-fatigue-survey",
       "source_type": "Tavily",
-      "retrieved_at": "2026-09-27T14:18:11.748767+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731333+00:00"
     },
     {
       "claim": "Over 70% of retail options and equity traders confess that FOMO causes them to chase green candles. Once entered, panic sets in at the first retracement.",
       "source": "https://fintech-review.org/retail-trader-fatigue-2026",
       "source_type": "Exa",
-      "retrieved_at": "2026-09-27T14:18:11.749061+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731653+00:00"
     },
     {
       "claim": "Aggregated crowd sentiment, when appropriately de-noised, outperforms individual expert forecasts by 22%. The primary obstacle for retail is filtering spam bots.",
       "source": "https://stanford-market-research.edu/crowd-wisdom-accuracy",
       "source_type": "Exa",
-      "retrieved_at": "2026-09-27T14:18:11.749082+00:00"
+      "retrieved_at": "2026-09-27T14:25:30.731676+00:00"
     }
   ]
 }
