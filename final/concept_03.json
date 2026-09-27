@@ -1,0 +1,110 @@
+{
+  "concept_id": "concept_03",
+  "title": "THE CONTROL ROOM",
+  "concept": {
+    "concept_id": "concept_03",
+    "title": "THE CONTROL ROOM",
+    "big_idea": "What if you didn't have to guess what millions of investors were thinking? What if you could see the consensus directly?",
+    "target_icp": "The Analytical Self-Directed Swing Investor",
+    "core_pain": "Lack of objective macro consensus data forces investors to rely on guesswork and biased financial news.",
+    "emotional_arc": "Cold skepticism -> Astonishment at the scale of aggregated intelligence -> Sovereign confidence in systematic execution.",
+    "visual_style": "Premium Futuristic Technology & Sci-Fi Realism. Enormous holographic curved glass displays, deep indigo & cyan ambient lighting, volumetric particle dust, seamless tactile UI interactions.",
+    "hook": "A trader stands alone in a massive dim observatory. A single tap on glass ignites a 3D topographic globe of global market sentiment.",
+    "mechanism": "Real-Time Sentiment Heatmaps & Mathematical Noise De-Spamming",
+    "crowdwisdom_value": "Synthesizes millions of decentralized participant opinions into an institutional-grade visual intelligence command center.",
+    "cta": "Step into the intelligence room. Experience CrowdWisdomTrading.com.",
+    "why_this_concept": "Appeals to the intellectual rigor and pride of the analytical swing investor who rejects promotional hype in favor of structured data models.",
+    "evidence": [
+      "Exa Research: 84% of self-directed swing investors prioritize structured data over chatroom alerts.",
+      "CrowdWisdom Source: Full walkthrough of real-time sector sentiment heatmaps (YouTube: bpM9D1kQaAs)."
+    ]
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration": 3.0,
+      "visual": "Pitch dark chamber. A trader touches a floating holographic glass interface; the room erupts in light.",
+      "camera": "Low-angle sweeping crane shot moving upward past floating data shards.",
+      "action": "Concentric rings of blue and cyan data illuminate across an expansive circular trading dome.",
+      "voiceover": "",
+      "sound_design": "Futuristic reactor hum spooling up to full power; resonant glass tap.",
+      "music": "Pounding cyber-cinematic beat with deep analog synth bass.",
+      "on_screen_text": "THE INTELLIGENCE COMMAND",
+      "transition": "Whip zoom"
+    },
+    {
+      "scene_number": 2,
+      "duration": 7.0,
+      "visual": "Massive holographic globe displaying real-time financial sentiment nodes connecting across continents.",
+      "camera": "Dynamic orbital sweep around the 3D globe as sentiment pulses surge between global markets.",
+      "action": "Red and green sentiment heatmaps illuminate across sectors: Tech, Energy, Crypto, Semis.",
+      "voiceover": "In financial markets, thousands of signals broadcast every second. Most platforms show you historical prices.",
+      "sound_design": "Subtle audio telemetry clicks; continuous low electric hum.",
+      "music": "Complex, driving electronic rhythm with futuristic modular synths.",
+      "on_screen_text": "",
+      "transition": "Hard cut"
+    },
+    {
+      "scene_number": 3,
+      "duration": 8.5,
+      "visual": "Split screen: Left side shows a chaotic Twitter/Reddit forum drowning in bot spam; right side shows raw code.",
+      "camera": "Split-screen slider moving left to right as a scanning laser deconstructs the chatter.",
+      "action": "Bot icons turn grey and vanish, leaving only verified human consensus behind.",
+      "voiceover": "They leave you to drown in bot manipulation, sponsor hype, and emotional panic.",
+      "sound_design": "Glitching static buzzing; digital filter sweeping across frequency spectrum.",
+      "music": "Tense, minimal electronic heartbeat with filtered sub-bass.",
+      "on_screen_text": "FILTERING BOT SPAM",
+      "transition": "Clean wipe"
+    },
+    {
+      "scene_number": 4,
+      "duration": 8.0,
+      "visual": "The scanning laser completes. A pristine 3D sector heatmap locks into crystal-clear resolution.",
+      "camera": "Smooth dolly forward penetrating directly into the central sentiment dashboard.",
+      "action": "The trader points two fingers, expanding a ticker to reveal its historical sentiment agreement index.",
+      "voiceover": "CrowdWisdomTrading transforms chaos into high-conviction decision support.",
+      "sound_design": "Pure sine wave harmonic ring; high-tech glass sliding sound.",
+      "music": "Majestic synth brass chords swell with heroic momentum.",
+      "on_screen_text": "MATHEMATICAL SIGNAL PURITY",
+      "transition": "Dissolve"
+    },
+    {
+      "scene_number": 5,
+      "duration": 8.5,
+      "visual": "Extreme close-up of the CrowdWisdom Sentiment Conviction Gauge sliding from 45 to 88 with green aura.",
+      "camera": "Tilted macro tracking shot skimming along the luminous gauge markings.",
+      "action": "The data displays: 'Crowd Sentiment: Extremely Bullish | Disinformation Index: 2% | Signal Conviction: High'.",
+      "voiceover": "Our engine aggregates thousands of data streams, mathematically removing noise to give you genuine crowd consensus.",
+      "sound_design": "Crisp multi-frequency telemetry chimes.",
+      "music": "Rousing, driving electronic-orchestral hybrid anthem.",
+      "on_screen_text": "REAL-TIME CONVICTION INDEX",
+      "transition": "Zoom cut"
+    },
+    {
+      "scene_number": 6,
+      "duration": 6.5,
+      "visual": "The trader steps back, surveying the complete multi-asset dashboard. Total composure and mastery.",
+      "camera": "Wide cinematic hero shot framing the trader against the illuminated command dome.",
+      "action": "Trader touches 'Execute Analysis'. The telemetry confirms readiness.",
+      "voiceover": "Built for serious investors who demand intelligence, not speculation.",
+      "sound_design": "Deep resonant boom with crystalline high-frequency tail.",
+      "music": "Full cinematic crescendo reaching its peak.",
+      "on_screen_text": "MASTER THE MARKETS",
+      "transition": "Fade to dark"
+    },
+    {
+      "scene_number": 7,
+      "duration": 4.5,
+      "visual": "CrowdWisdomTrading signature interface floating with URL and enterprise tier badges.",
+      "camera": "Slow majestic floating track.",
+      "action": "UI elements settle into the sleek final logo mark.",
+      "voiceover": "Enter the control room. CrowdWisdomTrading.com.",
+      "sound_design": "Signature brand sonic audio signature.",
+      "music": "Warm, echoing synth resolution.",
+      "on_screen_text": "CrowdWisdomTrading.com\nInstitutional Crowd Intelligence.",
+      "transition": "Fade to black"
+    }
+  ],
+  "total_duration": 46.0,
+  "compliance_approved": true
+}

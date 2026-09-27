@@ -1,0 +1,110 @@
+{
+  "concept_id": "concept_01",
+  "title": "THE NOISE",
+  "concept": {
+    "concept_id": "concept_01",
+    "title": "THE NOISE",
+    "big_idea": "The problem in modern trading isn't a lack of information. It's knowing what actually matters.",
+    "target_icp": "The Data-Fatigued Momentum Trader",
+    "core_pain": "Sensory overload from 15 browser tabs, conflicting indicators, and Discord chatter causing execution paralysis.",
+    "emotional_arc": "Suffocating cognitive overload -> Deafening silence & pattern break -> Calm mastery and unified clarity.",
+    "visual_style": "Cinematic Psychological Thriller. Claustrophobic lighting, glowing fluorescent typography, audio frequency buildup, sudden match-cut to a serene dark-mode intelligence dashboard.",
+    "hook": "Visual and auditory barrage of 100 screaming financial headlines rapidly closing in around a lone trader in the dark.",
+    "mechanism": "CrowdWisdom De-Noising Engine & Collective Sentiment Aggregation",
+    "crowdwisdom_value": "Filters out 85% of social spam and conflicting chatter into a single 0-100 crowd conviction score.",
+    "cta": "Filter the noise. Discover real market conviction at CrowdWisdomTrading.com.",
+    "why_this_concept": "Directly attacks the #1 behavioral pain point discovered in Tavily/Exa research: 78% of retail traders suffer cognitive burnout from conflicting signals.",
+    "evidence": [
+      "Tavily Research: 78% of active traders report severe decision paralysis from conflicting alerts.",
+      "Competitor Analysis: Highest scoring ads directly address indicator clutter (TrendSpider, Finviz)."
+    ]
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration": 3.0,
+      "visual": "Black void. Sudden explosion of 50 overlapping fluorescent stock tickers and notification popups.",
+      "camera": "Rapid macro push-in towards a glowing computer monitor reflecting in the dilated pupil of a trader.",
+      "action": "Screens glitch rapidly with red and green numbers flashing across the screen.",
+      "voiceover": "",
+      "sound_design": "Violent crescendo of electronic notification dings, telephone rings, and distorted stock market sirens.",
+      "music": "Deep subsonic bass rumble with dissonant high-pitch string screeches.",
+      "on_screen_text": "TOO MUCH NOISE",
+      "transition": "Glitch whip-cut"
+    },
+    {
+      "scene_number": 2,
+      "duration": 6.5,
+      "visual": "Dark industrial room. A lone trader surrounded by transparent floating glass charts drifting out of control.",
+      "camera": "360-degree disorienting orbital roll around the seated trader.",
+      "action": "The trader clutches their temples as news headlines accelerate violently around them.",
+      "voiceover": "You have fourteen tabs open. Three Discord rooms screaming different calls. And zero conviction.",
+      "sound_design": "Whispering overlapping voices: 'Buy call!', 'Short it!', 'Earnings miss!', 'Crash incoming!'",
+      "music": "Frantic, irregular polyrhythmic percussion building tension.",
+      "on_screen_text": "",
+      "transition": "Hard cut"
+    },
+    {
+      "scene_number": 3,
+      "duration": 9.5,
+      "visual": "Extreme close-up of a sweaty finger trembling directly above a mechanical mouse button.",
+      "camera": "Slow-motion macro tracking shot inches from the mouse switch.",
+      "action": "The market chart violently whipsaws. The finger hovers in agonizing paralysis.",
+      "voiceover": "By the time you synthesize the chatter... the move is already gone. Or worse... you bought the exact top.",
+      "sound_design": "Amplified ticking stopwatch echoing in heavy reverb. The dull thud of an elevated heartbeat.",
+      "music": "Low synth riser climbing relentlessly in frequency.",
+      "on_screen_text": "DECISION PARALYSIS",
+      "transition": "Smash-cut"
+    },
+    {
+      "scene_number": 4,
+      "duration": 7.5,
+      "visual": "Sudden dead silence. The floating charts shatter into harmless luminescent dust particles.",
+      "camera": "Static low-angle profile of the trader closing their eyes and exhaling slowly.",
+      "action": "Complete ambient stillness. The chaotic colors dissolve into clean, deep indigo tones.",
+      "voiceover": "The problem was never a lack of information. It was knowing what actually matters.",
+      "sound_design": "A deep, resonant sub-bass drop followed by absolute spatial silence.",
+      "music": "Lush, warm cinematic ambient pad enters in D-minor.",
+      "on_screen_text": "KNOW WHAT MATTERS",
+      "transition": "Smooth dissolve"
+    },
+    {
+      "scene_number": 5,
+      "duration": 9.0,
+      "visual": "A single minimalist glowing telemetry HUD appears in mid-air: CrowdWisdom Sentiment Consensus.",
+      "camera": "Slow forward track over a sleek 3D holographic volume showing crowd conviction score: 87.",
+      "action": "Millions of chaotic noise particles funnel into one clear, pulsing green conviction signal.",
+      "voiceover": "Meet CrowdWisdomTrading. Our algorithms de-noise millions of market discussions into one clear measure of crowd conviction.",
+      "sound_design": "Harmonic digital activation chime; crisp tactile clicks of data resolving.",
+      "music": "Uplifting electronic sequencer pulse combining with warm orchestral strings.",
+      "on_screen_text": "CROWDWISDOM INTELLIGENCE",
+      "transition": "Wipe transition"
+    },
+    {
+      "scene_number": 6,
+      "duration": 6.5,
+      "visual": "The trader looks at the clean signal with total calm and executes with a single decisive click.",
+      "camera": "Medium close-up showing confident posture; camera pulls back to reveal a modern trading sanctuary.",
+      "action": "The position is opened smoothly. The chart confirms the sentiment breakout without panic.",
+      "voiceover": "No noise. No panic. Just the collective intelligence of the market, quantified for you.",
+      "sound_design": "Crisp tactile mechanical switch click echoing with confidence.",
+      "music": "Full cinematic trailer climax with inspiring brass and synthesizers.",
+      "on_screen_text": "COLLECTIVE CONVICTION",
+      "transition": "Fade to black"
+    },
+    {
+      "scene_number": 7,
+      "duration": 4.5,
+      "visual": "Cinematic dark blue backdrop with CrowdWisdomTrading logo and glowing animated soundwave emblem.",
+      "camera": "Slow outward push displaying URL and mobile/desktop access.",
+      "action": "The logo pulses gently with a neon cyan aura.",
+      "voiceover": "CrowdWisdomTrading. Stop guessing. Trade with collective clarity.",
+      "sound_design": "Signature brand audio mnemonic: warm dual-tone chord.",
+      "music": "Sustained ambient shimmer with resolving root note.",
+      "on_screen_text": "CrowdWisdomTrading.com\nFilter The Noise. Find Conviction.",
+      "transition": "Fade to black"
+    }
+  ],
+  "total_duration": 46.5,
+  "compliance_approved": true
+}
