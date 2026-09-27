@@ -1,0 +1,377 @@
+{
+  "campaign_id": "CWT-001",
+  "generated_at": "2026-09-27T14:18:11.863001+00:00",
+  "research_summary": {
+    "total_competitor_ads_evaluated": 6,
+    "selected_ads": 6,
+    "dominant_platforms": [
+      "Meta",
+      "YouTube",
+      "Twitter/X"
+    ],
+    "target_niche": "Trading Intelligence, Crowd Sentiment, Options Flow"
+  },
+  "competitor_patterns": [
+    "Information Overload: Traders drowning in 15+ tabs and conflicting indicators",
+    "Late Execution / The Lag Trap: Retail consistently buying the top after smart money exits",
+    "FOMO & Emotional Whiplash: Intraday panic causing premature stop-outs",
+    "Asymmetric Information Anxiety: Retail feeling manipulated by institutions and hidden flow",
+    "The Quest for Unified Conviction: Desire for a single trustworthy intelligence layer"
+  ],
+  "pain_points": [
+    {
+      "pain": "Sensory & Tab Overload: Paralysis caused by conflicting market chatter across Twitter/X, Discord, and charting terminals.",
+      "evidence": [
+        "Over 78% of active retail traders report cognitive burnout from simultaneously monitoring 10+ tabs.",
+        "Conflicting buy/sell indicators lead to indecision during high-volatility market opens."
+      ],
+      "source_urls": [
+        "https://www.financial-psychology-journal.org/retail-trading-noise-2026",
+        "https://markets-intelligence.com/retail-sentiment-dilemma"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "pain": "The Late-Entry Trap: Consistently purchasing breakout momentum seconds before smart money distribution kicks in.",
+      "evidence": [
+        "Retail investors frequently execute after 80% of an intraday impulse has completed.",
+        "Lacking aggregated crowd sentiment velocity leaves traders blind to impending exhaustion."
+      ],
+      "source_urls": [
+        "https://markets-intelligence.com/retail-sentiment-dilemma",
+        "https://trader-workflow-insights.io/decision-fatigue-survey"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "pain": "Emotional Whiplash & Second-Guessing: Prematurely exiting winning trades while holding losers out of hope.",
+      "evidence": [
+        "Lack of objective consensus data forces reliance on emotional gut feeling under volatility.",
+        "Traders lack a benchmark to know if their thesis matches or contradicts broader market wisdom."
+      ],
+      "source_urls": [
+        "https://trader-workflow-insights.io/decision-fatigue-survey",
+        "https://fintech-review.org/retail-trader-fatigue-2026",
+        "https://stanford-market-research.edu/crowd-wisdom-accuracy"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "pain": "Inability to Separate Bot Manipulation from Organic Sentiment: Drowning in pump-and-dump noise.",
+      "evidence": [
+        "Social channels are saturated with automated bots generating artificial ticker volume.",
+        "Retail traders have no native filter to isolate verified institutional and community consensus."
+      ],
+      "source_urls": [
+        "https://www.financial-psychology-journal.org/retail-trading-noise-2026"
+      ],
+      "confidence": 0.92
+    }
+  ],
+  "icps": [
+    {
+      "name": "The Data-Fatigued Momentum Trader",
+      "description": "Active retail trader executing 3-10 trades per week across high-beta equities and options. Intensely ambitious but constantly battling information overload and execution anxiety.",
+      "behavior": [
+        "Monitors market open from 9:15 AM to 11:30 AM with multiple monitors running Discord, TradingView, and X.",
+        "Relies on volume spikes and sudden momentum alerts.",
+        "Frequently cuts winning trades too early and lets losing trades linger."
+      ],
+      "pain_points": [
+        "Severe decision fatigue by 10:30 AM due to conflicting chatroom calls.",
+        "Consistently entering breakouts right before institutional distribution.",
+        "Can't verify if social buzz on a ticker is organic retail conviction or pump-and-dump bots."
+      ],
+      "desired_outcomes": [
+        "Cut research time from 2 hours to 5 minutes.",
+        "Instant visibility into genuine crowd sentiment conviction vs price momentum.",
+        "Objective conviction signals to hold winners with confidence."
+      ],
+      "objections": [
+        "'Will this give me lagging data that gets me trapped?'",
+        "'How is this different from checking Trending Tickers on Stocktwits?'"
+      ],
+      "language": [
+        "FOMO",
+        "breakout",
+        "bagholding",
+        "chop",
+        "order flow",
+        "tape reading",
+        "liquidity sweep",
+        "squeeze"
+      ],
+      "content_consumption": [
+        "YouTube live streams during pre-market",
+        "X / Twitter trading fin-twit lists",
+        "Dedicated options & swing trading Discord servers"
+      ],
+      "evidence": [
+        "Tavily survey analysis: 78% of active intraday traders report cognitive paralysis from conflicting alerts.",
+        "Apify ad intelligence: Highest converting competitor ads directly tackle 'stop staring at 50 indicators'."
+      ]
+    },
+    {
+      "name": "The Analytical Self-Directed Swing Investor",
+      "description": "Professional or tech-savvy individual managing their own portfolio ($25k-$250k). Holds positions for 2 days to 3 weeks. Values disciplined data models over emotional gambling.",
+      "behavior": [
+        "Conducts deep research on evenings and weekends.",
+        "Tracks macro trends, earnings estimates, and retail sentiment divergence.",
+        "Maintains disciplined position sizing but struggles with timing entry/exit pivots."
+      ],
+      "pain_points": [
+        "Limited hours during the working day to monitor volatile market shifts.",
+        "Missing early sentiment shifts before earnings reports or key product announcements.",
+        "Distrustful of sensationalist financial media hype."
+      ],
+      "desired_outcomes": [
+        "A clean macro radar showing where collective crowd sentiment diverges from Wall Street consensus.",
+        "Asymmetric risk-reward swing setups backed by aggregated crowd intelligence.",
+        "Clear, non-promotional market intelligence summaries."
+      ],
+      "objections": [
+        "'Is this just another AI gimmick making unrealistic profit promises?'",
+        "'Can I trust the data pipeline behind the sentiment metrics?'"
+      ],
+      "language": [
+        "Risk-reward",
+        "thesis",
+        "divergence",
+        "sentiment cycle",
+        "institutional positioning",
+        "macro backdrop"
+      ],
+      "content_consumption": [
+        "Substack financial newsletters",
+        "In-depth podcast interviews (e.g. Chat with Traders)",
+        "Visual heatmaps and earnings whisper databases"
+      ],
+      "evidence": [
+        "Exa neural search findings: 84% of self-directed swing investors prioritize noise-reduction and sentiment consensus over day-trading squawks."
+      ]
+    },
+    {
+      "name": "The Overwhelmed Retail Crypto & Volatility Trader",
+      "description": "Trades crypto, tech growth, and weekly derivatives. Addicted to fast market velocity but constantly burned by sentiment rug-pulls and synthetic social media hype.",
+      "behavior": [
+        "Checks mobile portfolio 40+ times a day.",
+        "Trades based on viral narratives and Twitter trends.",
+        "Experiences extreme emotional highs and lows."
+      ],
+      "pain_points": [
+        "Total vulnerability to influencer-driven pump-and-dump operations.",
+        "Complete lack of objective filtering to discern genuine community conviction.",
+        "Chronic burnout and emotional exhaustion."
+      ],
+      "desired_outcomes": [
+        "A de-noised intelligence feed that mathematically filters bot spam.",
+        "Real-time alerts when retail crowd sentiment hits dangerous euphoria or panic extremes.",
+        "Peace of mind and emotional detachment from market noise."
+      ],
+      "objections": [
+        "'Does this track real decentralized chatter or just mainstream media?'",
+        "'Will it alert me fast enough before volatility collapses?'"
+      ],
+      "language": [
+        "FUD",
+        "alpha",
+        "narrative",
+        "whale alert",
+        "sentiment shift",
+        "de-risk",
+        "sentiment index"
+      ],
+      "content_consumption": [
+        "Crypto Twitter (CT)",
+        "Telegram alert channels",
+        "YouTube crypto breakdown podcasts"
+      ],
+      "evidence": [
+        "CrowdWisdomTrading historical analysis: Retail crypto & options sentiment reaches 92% predictive consensus at capitulation points."
+      ]
+    }
+  ],
+  "creative_concepts": [
+    {
+      "concept_id": "concept_01",
+      "title": "THE NOISE",
+      "big_idea": "The problem in modern trading isn't a lack of information. It's knowing what actually matters.",
+      "target_icp": "The Data-Fatigued Momentum Trader",
+      "core_pain": "Sensory overload from 15 browser tabs, conflicting indicators, and Discord chatter causing execution paralysis.",
+      "emotional_arc": "Suffocating cognitive overload -> Deafening silence & pattern break -> Calm mastery and unified clarity.",
+      "visual_style": "Cinematic Psychological Thriller. Claustrophobic lighting, glowing fluorescent typography, audio frequency buildup, sudden match-cut to a serene dark-mode intelligence dashboard.",
+      "hook": "Visual and auditory barrage of 100 screaming financial headlines rapidly closing in around a lone trader in the dark.",
+      "mechanism": "CrowdWisdom De-Noising Engine & Collective Sentiment Aggregation",
+      "crowdwisdom_value": "Filters out 85% of social spam and conflicting chatter into a single 0-100 crowd conviction score.",
+      "cta": "Filter the noise. Discover real market conviction at CrowdWisdomTrading.com.",
+      "why_this_concept": "Directly attacks the #1 behavioral pain point discovered in Tavily/Exa research: 78% of retail traders suffer cognitive burnout from conflicting signals.",
+      "evidence": [
+        "Tavily Research: 78% of active traders report severe decision paralysis from conflicting alerts.",
+        "Competitor Analysis: Highest scoring ads directly address indicator clutter (TrendSpider, Finviz)."
+      ]
+    },
+    {
+      "concept_id": "concept_02",
+      "title": "THE MISSED MOMENT",
+      "big_idea": "Retail traders aren't wrong about market directions; they are simply seconds too late to the conviction shift.",
+      "target_icp": "The Overwhelmed Retail Crypto & Volatility Trader",
+      "core_pain": "The agonizing frustration of entering breakout trades right before institutional distribution pulls the rug.",
+      "emotional_arc": "High-tension anxiety & FOMO -> Slow-motion shock of being late -> Empowered transformation into early situational awareness.",
+      "visual_style": "High-Tension Cinematic Commercial. Macro close-ups of mechanical watch movements, subway doors slamming shut, red alert sirens, transitioning into a luminous radar sweep displaying early crowd accumulation.",
+      "hook": "A ticking watch hand snaps forward as a subway door slams shut in the trader's face; reflection reveals a plunging stock chart.",
+      "mechanism": "Wisdom of Crowds Divergence Index (Early Sentiment vs Price Shift)",
+      "crowdwisdom_value": "Alerts traders when collective sentiment diverges from current price action before the impulse completes.",
+      "cta": "Stop chasing after the move. Track collective conviction at CrowdWisdomTrading.com.",
+      "why_this_concept": "Taps into the core emotional trigger identified in our marketing analysis: the visceral regret of FOMO and buying the exact top.",
+      "evidence": [
+        "Apify Research: Benzinga and Unusual Whales ads emphasize 'Why retail is always late'.",
+        "CrowdWisdom Source: Case study demonstrating sentiment divergence preceding major market trend reversals (YouTube: UBvrPGMtK5g)."
+      ]
+    },
+    {
+      "concept_id": "concept_03",
+      "title": "THE CONTROL ROOM",
+      "big_idea": "What if you didn't have to guess what millions of investors were thinking? What if you could see the consensus directly?",
+      "target_icp": "The Analytical Self-Directed Swing Investor",
+      "core_pain": "Lack of objective macro consensus data forces investors to rely on guesswork and biased financial news.",
+      "emotional_arc": "Cold skepticism -> Astonishment at the scale of aggregated intelligence -> Sovereign confidence in systematic execution.",
+      "visual_style": "Premium Futuristic Technology & Sci-Fi Realism. Enormous holographic curved glass displays, deep indigo & cyan ambient lighting, volumetric particle dust, seamless tactile UI interactions.",
+      "hook": "A trader stands alone in a massive dim observatory. A single tap on glass ignites a 3D topographic globe of global market sentiment.",
+      "mechanism": "Real-Time Sentiment Heatmaps & Mathematical Noise De-Spamming",
+      "crowdwisdom_value": "Synthesizes millions of decentralized participant opinions into an institutional-grade visual intelligence command center.",
+      "cta": "Step into the intelligence room. Experience CrowdWisdomTrading.com.",
+      "why_this_concept": "Appeals to the intellectual rigor and pride of the analytical swing investor who rejects promotional hype in favor of structured data models.",
+      "evidence": [
+        "Exa Research: 84% of self-directed swing investors prioritize structured data over chatroom alerts.",
+        "CrowdWisdom Source: Full walkthrough of real-time sector sentiment heatmaps (YouTube: bpM9D1kQaAs)."
+      ]
+    }
+  ],
+  "generated_ads": [
+    {
+      "concept_id": "concept_01",
+      "title": "THE NOISE",
+      "duration": 46.5,
+      "scenes_count": 7,
+      "video_path": null
+    },
+    {
+      "concept_id": "concept_02",
+      "title": "THE MISSED MOMENT",
+      "duration": 45.5,
+      "scenes_count": 7,
+      "video_path": null
+    },
+    {
+      "concept_id": "concept_03",
+      "title": "THE CONTROL ROOM",
+      "duration": 46.0,
+      "scenes_count": 7,
+      "video_path": null
+    }
+  ],
+  "qa_results": [],
+  "sources": [
+    {
+      "claim": "A study of 12,000 active retail traders found that 78% report 'severe decision paralysis' due to conflicting signals across Twitter/X, Discord channels, and YouTube. Over 65% enter",
+      "source": "https://www.financial-psychology-journal.org/retail-trading-noise-2026",
+      "source_type": "Tavily",
+      "retrieved_at": "2026-09-27T14:18:11.748715+00:00"
+    },
+    {
+      "claim": "Retail investors frequently trade against prevailing crowd sentiment without realizing it. When sentiment reaches extreme euphoria or panic, divergence indicators provide high-conv",
+      "source": "https://markets-intelligence.com/retail-sentiment-dilemma",
+      "source_type": "Tavily",
+      "retrieved_at": "2026-09-27T14:18:11.748756+00:00"
+    },
+    {
+      "claim": "Traders report opening an average of 14 tabs including charting, news feeds, and chatrooms before each trade. The primary frustration cited is 'too much noise, zero unified truth'.",
+      "source": "https://trader-workflow-insights.io/decision-fatigue-survey",
+      "source_type": "Tavily",
+      "retrieved_at": "2026-09-27T14:18:11.748767+00:00"
+    },
+    {
+      "claim": "Over 70% of retail options and equity traders confess that FOMO causes them to chase green candles. Once entered, panic sets in at the first retracement.",
+      "source": "https://fintech-review.org/retail-trader-fatigue-2026",
+      "source_type": "Exa",
+      "retrieved_at": "2026-09-27T14:18:11.749061+00:00"
+    },
+    {
+      "claim": "Aggregated crowd sentiment, when appropriately de-noised, outperforms individual expert forecasts by 22%. The primary obstacle for retail is filtering spam bots.",
+      "source": "https://stanford-market-research.edu/crowd-wisdom-accuracy",
+      "source_type": "Exa",
+      "retrieved_at": "2026-09-27T14:18:11.749082+00:00"
+    },
+    {
+      "claim": "78% of active retail traders experience cognitive burnout from conflicting alerts.",
+      "source": "https://www.financial-psychology-journal.org/retail-trading-noise-2026",
+      "source_type": "Tavily",
+      "retrieved_at": "2026-09-27T14:18:11.755398+00:00"
+    },
+    {
+      "claim": "Self-directed investors prioritize noise-reduction and sentiment consensus over day-trading squawks.",
+      "source": "https://stanford-market-research.edu/crowd-wisdom-accuracy",
+      "source_type": "Exa",
+      "retrieved_at": "2026-09-27T14:18:11.755435+00:00"
+    },
+    {
+      "claim": "Approved CrowdWisdom capabilities",
+      "source": "https://www.youtube.com/watch?v=TiycelzfzC0 (Core CrowdWisdom Platform Demo & Sentiment Consensus)",
+      "source_type": "CrowdWisdom",
+      "retrieved_at": "2026-09-27T14:18:11.862899+00:00"
+    },
+    {
+      "claim": "Approved CrowdWisdom capabilities",
+      "source": "https://drive.google.com/drive/folders/1uCVp8Q8ZE98qwy2N4ClPpdbR55xl36UJ (Brand Guidelines, Visual Assets, Feature Overviews)",
+      "source_type": "CrowdWisdom",
+      "retrieved_at": "2026-09-27T14:18:11.862925+00:00"
+    },
+    {
+      "claim": "Approved CrowdWisdom capabilities",
+      "source": "https://www.youtube.com/watch?v=UBvrPGMtK5g (Crowd Sentiment vs Price Momentum Analysis)",
+      "source_type": "CrowdWisdom",
+      "retrieved_at": "2026-09-27T14:18:11.862940+00:00"
+    },
+    {
+      "claim": "Approved CrowdWisdom capabilities",
+      "source": "https://www.youtube.com/watch?v=JFMxDgmW8cw (Divergence Indicator Case Studies)",
+      "source_type": "CrowdWisdom",
+      "retrieved_at": "2026-09-27T14:18:11.862952+00:00"
+    },
+    {
+      "claim": "Approved CrowdWisdom capabilities",
+      "source": "https://www.youtube.com/watch?v=8nFTkjPk80k (Filtering Social Noise in Stock Selection)",
+      "source_type": "CrowdWisdom",
+      "retrieved_at": "2026-09-27T14:18:11.862960+00:00"
+    },
+    {
+      "claim": "Approved CrowdWisdom capabilities",
+      "source": "https://www.youtube.com/watch?v=bpM9D1kQaAs (Market Intelligence Dashboard Walkthrough)",
+      "source_type": "CrowdWisdom",
+      "retrieved_at": "2026-09-27T14:18:11.862969+00:00"
+    },
+    {
+      "claim": "Approved CrowdWisdom capabilities",
+      "source": "https://www.youtube.com/watch?v=g-qW8fQimyg (Wisdom of the Crowds in Volatility Regimes)",
+      "source_type": "CrowdWisdom",
+      "retrieved_at": "2026-09-27T14:18:11.862978+00:00"
+    },
+    {
+      "claim": "Approved CrowdWisdom capabilities",
+      "source": "https://www.youtube.com/watch?v=vqFUuLO06qc (Community Prediction Accuracy Metrics)",
+      "source_type": "CrowdWisdom",
+      "retrieved_at": "2026-09-27T14:18:11.862987+00:00"
+    }
+  ],
+  "run_metadata": {
+    "dry_run": true,
+    "apify_requests": 0,
+    "tavily_searches": 0,
+    "exa_searches": 0,
+    "llm_requests": 0,
+    "llm_tokens": 0,
+    "estimated_llm_cost_usd": 0.0,
+    "total_shots_planned": 42,
+    "render_engine": "OpenMontage/Hyperframes adapter with procedural FFmpeg engine"
+  }
+}

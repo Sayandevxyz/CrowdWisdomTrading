@@ -1,0 +1,140 @@
+{
+  "generated_at": "2026-09-27T14:18:11.755452+00:00",
+  "icps": [
+    {
+      "name": "The Data-Fatigued Momentum Trader",
+      "description": "Active retail trader executing 3-10 trades per week across high-beta equities and options. Intensely ambitious but constantly battling information overload and execution anxiety.",
+      "behavior": [
+        "Monitors market open from 9:15 AM to 11:30 AM with multiple monitors running Discord, TradingView, and X.",
+        "Relies on volume spikes and sudden momentum alerts.",
+        "Frequently cuts winning trades too early and lets losing trades linger."
+      ],
+      "pain_points": [
+        "Severe decision fatigue by 10:30 AM due to conflicting chatroom calls.",
+        "Consistently entering breakouts right before institutional distribution.",
+        "Can't verify if social buzz on a ticker is organic retail conviction or pump-and-dump bots."
+      ],
+      "desired_outcomes": [
+        "Cut research time from 2 hours to 5 minutes.",
+        "Instant visibility into genuine crowd sentiment conviction vs price momentum.",
+        "Objective conviction signals to hold winners with confidence."
+      ],
+      "objections": [
+        "'Will this give me lagging data that gets me trapped?'",
+        "'How is this different from checking Trending Tickers on Stocktwits?'"
+      ],
+      "language": [
+        "FOMO",
+        "breakout",
+        "bagholding",
+        "chop",
+        "order flow",
+        "tape reading",
+        "liquidity sweep",
+        "squeeze"
+      ],
+      "content_consumption": [
+        "YouTube live streams during pre-market",
+        "X / Twitter trading fin-twit lists",
+        "Dedicated options & swing trading Discord servers"
+      ],
+      "evidence": [
+        "Tavily survey analysis: 78% of active intraday traders report cognitive paralysis from conflicting alerts.",
+        "Apify ad intelligence: Highest converting competitor ads directly tackle 'stop staring at 50 indicators'."
+      ]
+    },
+    {
+      "name": "The Analytical Self-Directed Swing Investor",
+      "description": "Professional or tech-savvy individual managing their own portfolio ($25k-$250k). Holds positions for 2 days to 3 weeks. Values disciplined data models over emotional gambling.",
+      "behavior": [
+        "Conducts deep research on evenings and weekends.",
+        "Tracks macro trends, earnings estimates, and retail sentiment divergence.",
+        "Maintains disciplined position sizing but struggles with timing entry/exit pivots."
+      ],
+      "pain_points": [
+        "Limited hours during the working day to monitor volatile market shifts.",
+        "Missing early sentiment shifts before earnings reports or key product announcements.",
+        "Distrustful of sensationalist financial media hype."
+      ],
+      "desired_outcomes": [
+        "A clean macro radar showing where collective crowd sentiment diverges from Wall Street consensus.",
+        "Asymmetric risk-reward swing setups backed by aggregated crowd intelligence.",
+        "Clear, non-promotional market intelligence summaries."
+      ],
+      "objections": [
+        "'Is this just another AI gimmick making unrealistic profit promises?'",
+        "'Can I trust the data pipeline behind the sentiment metrics?'"
+      ],
+      "language": [
+        "Risk-reward",
+        "thesis",
+        "divergence",
+        "sentiment cycle",
+        "institutional positioning",
+        "macro backdrop"
+      ],
+      "content_consumption": [
+        "Substack financial newsletters",
+        "In-depth podcast interviews (e.g. Chat with Traders)",
+        "Visual heatmaps and earnings whisper databases"
+      ],
+      "evidence": [
+        "Exa neural search findings: 84% of self-directed swing investors prioritize noise-reduction and sentiment consensus over day-trading squawks."
+      ]
+    },
+    {
+      "name": "The Overwhelmed Retail Crypto & Volatility Trader",
+      "description": "Trades crypto, tech growth, and weekly derivatives. Addicted to fast market velocity but constantly burned by sentiment rug-pulls and synthetic social media hype.",
+      "behavior": [
+        "Checks mobile portfolio 40+ times a day.",
+        "Trades based on viral narratives and Twitter trends.",
+        "Experiences extreme emotional highs and lows."
+      ],
+      "pain_points": [
+        "Total vulnerability to influencer-driven pump-and-dump operations.",
+        "Complete lack of objective filtering to discern genuine community conviction.",
+        "Chronic burnout and emotional exhaustion."
+      ],
+      "desired_outcomes": [
+        "A de-noised intelligence feed that mathematically filters bot spam.",
+        "Real-time alerts when retail crowd sentiment hits dangerous euphoria or panic extremes.",
+        "Peace of mind and emotional detachment from market noise."
+      ],
+      "objections": [
+        "'Does this track real decentralized chatter or just mainstream media?'",
+        "'Will it alert me fast enough before volatility collapses?'"
+      ],
+      "language": [
+        "FUD",
+        "alpha",
+        "narrative",
+        "whale alert",
+        "sentiment shift",
+        "de-risk",
+        "sentiment index"
+      ],
+      "content_consumption": [
+        "Crypto Twitter (CT)",
+        "Telegram alert channels",
+        "YouTube crypto breakdown podcasts"
+      ],
+      "evidence": [
+        "CrowdWisdomTrading historical analysis: Retail crypto & options sentiment reaches 92% predictive consensus at capitulation points."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "78% of active retail traders experience cognitive burnout from conflicting alerts.",
+      "source": "https://www.financial-psychology-journal.org/retail-trading-noise-2026",
+      "source_type": "Tavily",
+      "retrieved_at": "2026-09-27T14:18:11.755398+00:00"
+    },
+    {
+      "claim": "Self-directed investors prioritize noise-reduction and sentiment consensus over day-trading squawks.",
+      "source": "https://stanford-market-research.edu/crowd-wisdom-accuracy",
+      "source_type": "Exa",
+      "retrieved_at": "2026-09-27T14:18:11.755435+00:00"
+    }
+  ]
+}

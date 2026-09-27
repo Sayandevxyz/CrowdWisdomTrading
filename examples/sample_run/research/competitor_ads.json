@@ -1,0 +1,334 @@
+{
+  "collected_at": "2026-09-27T14:18:11.714436+00:00",
+  "query": "trading intelligence AND market sentiment AI",
+  "total_candidates": 6,
+  "selected_count": 6,
+  "ads": [
+    {
+      "ad_id": "ad_005_benzingapro",
+      "brand": "Benzinga Pro",
+      "platform": "YouTube Pre-Roll",
+      "url": "https://pro.benzinga.com/squawk-fast",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-26",
+      "active": true,
+      "creative_type": "video",
+      "headline": "Why Retail Traders Are Always Late to the Breakout",
+      "description": "By the time CNBC broadcasts the news, institutions already took profit. Audio squawk and instant crowd momentum signals delivered instantly.",
+      "cta": "Listen to Squawk",
+      "video_url": "https://cdn.example.com/benzinga_squawk.mp4",
+      "landing_page": "https://pro.benzinga.com",
+      "engagement_signals": {
+        "views": "610K",
+        "impressions": "2.4M",
+        "ctr": 0.031
+      },
+      "source": "apify"
+    },
+    {
+      "ad_id": "ad_001_trendspider",
+      "brand": "TrendSpider",
+      "platform": "YouTube / Meta",
+      "url": "https://www.trendspider.com/ad-library/visual-noise",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-25",
+      "active": true,
+      "creative_type": "video",
+      "headline": "Stop Staring at 50 Lagging Indicators",
+      "description": "90% of retail traders suffer from decision fatigue. Automate your chart pattern recognition and spot real sentiment reversals before the bell.",
+      "cta": "Start Free Trial",
+      "video_url": "https://cdn.example.com/trendspider_hook.mp4",
+      "landing_page": "https://trendspider.com",
+      "engagement_signals": {
+        "views": "1.2M",
+        "impressions": "4.5M",
+        "save_rate": 0.042
+      },
+      "source": "apify"
+    },
+    {
+      "ad_id": "ad_002_unusualwhales",
+      "brand": "Unusual Whales",
+      "platform": "Twitter / X & YouTube",
+      "url": "https://unusualwhales.com/ad/darkpool-flow",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-26",
+      "active": true,
+      "creative_type": "video",
+      "headline": "They Know Something You Don't. Track the Smart Money.",
+      "description": "Retail sees the headline after the price moves 15%. Track options order flow, congressional trades, and dark pool sentiment in real time.",
+      "cta": "See The Flow",
+      "video_url": "https://cdn.example.com/unusual_whales_hook.mp4",
+      "landing_page": "https://unusualwhales.com",
+      "engagement_signals": {
+        "views": "850K",
+        "impressions": "3.1M",
+        "retweet_ratio": 0.038
+      },
+      "source": "apify"
+    },
+    {
+      "ad_id": "ad_003_tradingview",
+      "brand": "TradingView",
+      "platform": "Instagram & TikTok",
+      "url": "https://tradingview.com/promo/where-the-world-charts",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-09-24",
+      "active": true,
+      "creative_type": "video",
+      "headline": "Look First / Then Leap",
+      "description": "Join 50 million traders who don't trade on gut feeling alone. Social sentiment, multi-timeframe analysis, and community ideas.",
+      "cta": "Explore Charts",
+      "video_url": "https://cdn.example.com/tradingview_cinematic.mp4",
+      "landing_page": "https://tradingview.com",
+      "engagement_signals": {
+        "views": "2.8M",
+        "impressions": "9.2M",
+        "likes": 140000
+      },
+      "source": "apify"
+    },
+    {
+      "ad_id": "ad_004_finviz",
+      "brand": "Finviz Elite",
+      "platform": "Google Display / Reddit",
+      "url": "https://finviz.com/elite/heatmaps",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-23",
+      "active": true,
+      "creative_type": "video",
+      "headline": "Cut Through the Market Noise in 3 Seconds",
+      "description": "Visual sector heatmaps, real-time news aggregation, and automated screener filters for serious retail investors.",
+      "cta": "View Live Heatmap",
+      "video_url": "https://cdn.example.com/finviz_heatmap.mp4",
+      "landing_page": "https://finviz.com/elite.ashx",
+      "engagement_signals": {
+        "views": "420K",
+        "impressions": "1.8M",
+        "ctr": 0.024
+      },
+      "source": "apify"
+    },
+    {
+      "ad_id": "ad_006_tipranks",
+      "brand": "TipRanks Smart Score",
+      "platform": "Facebook / YouTube",
+      "url": "https://tipranks.com/smart-score-ad",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-25",
+      "active": true,
+      "creative_type": "video",
+      "headline": "8 Factors That Actually Predict Stock Outperformance",
+      "description": "Combine Wall Street analyst consensus, hedge fund activity, and retail investor sentiment into one 1-10 Smart Score.",
+      "cta": "Check Your Stocks",
+      "video_url": "https://cdn.example.com/tipranks_score.mp4",
+      "landing_page": "https://tipranks.com",
+      "engagement_signals": {
+        "views": "940K",
+        "impressions": "3.8M",
+        "save_rate": 0.035
+      },
+      "source": "apify"
+    }
+  ],
+  "scored_ads": [
+    {
+      "ad_id": "ad_005_benzingapro",
+      "research_score": 87.8,
+      "score_breakdown": {
+        "recency": 24.3,
+        "niche_relevance": 19.0,
+        "creative_quality": 20.0,
+        "hook_strength": 14.0,
+        "pain_relevance": 10.5
+      },
+      "data_classification": "Observed data (dates/views/copy) vs AI interpretation (hook & pain relevance)",
+      "ad": {
+        "ad_id": "ad_005_benzingapro",
+        "brand": "Benzinga Pro",
+        "platform": "YouTube Pre-Roll",
+        "url": "https://pro.benzinga.com/squawk-fast",
+        "first_seen": "2026-09-12",
+        "last_seen": "2026-09-26",
+        "active": true,
+        "creative_type": "video",
+        "headline": "Why Retail Traders Are Always Late to the Breakout",
+        "description": "By the time CNBC broadcasts the news, institutions already took profit. Audio squawk and instant crowd momentum signals delivered instantly.",
+        "cta": "Listen to Squawk",
+        "video_url": "https://cdn.example.com/benzinga_squawk.mp4",
+        "landing_page": "https://pro.benzinga.com",
+        "engagement_signals": {
+          "views": "610K",
+          "impressions": "2.4M",
+          "ctr": 0.031
+        },
+        "source": "apify"
+      }
+    },
+    {
+      "ad_id": "ad_001_trendspider",
+      "research_score": 86.6,
+      "score_breakdown": {
+        "recency": 23.6,
+        "niche_relevance": 16.0,
+        "creative_quality": 20.0,
+        "hook_strength": 14.0,
+        "pain_relevance": 13.0
+      },
+      "data_classification": "Observed data (dates/views/copy) vs AI interpretation (hook & pain relevance)",
+      "ad": {
+        "ad_id": "ad_001_trendspider",
+        "brand": "TrendSpider",
+        "platform": "YouTube / Meta",
+        "url": "https://www.trendspider.com/ad-library/visual-noise",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-25",
+        "active": true,
+        "creative_type": "video",
+        "headline": "Stop Staring at 50 Lagging Indicators",
+        "description": "90% of retail traders suffer from decision fatigue. Automate your chart pattern recognition and spot real sentiment reversals before the bell.",
+        "cta": "Start Free Trial",
+        "video_url": "https://cdn.example.com/trendspider_hook.mp4",
+        "landing_page": "https://trendspider.com",
+        "engagement_signals": {
+          "views": "1.2M",
+          "impressions": "4.5M",
+          "save_rate": 0.042
+        },
+        "source": "apify"
+      }
+    },
+    {
+      "ad_id": "ad_002_unusualwhales",
+      "research_score": 85.3,
+      "score_breakdown": {
+        "recency": 24.3,
+        "niche_relevance": 19.0,
+        "creative_quality": 20.0,
+        "hook_strength": 14.0,
+        "pain_relevance": 8.0
+      },
+      "data_classification": "Observed data (dates/views/copy) vs AI interpretation (hook & pain relevance)",
+      "ad": {
+        "ad_id": "ad_002_unusualwhales",
+        "brand": "Unusual Whales",
+        "platform": "Twitter / X & YouTube",
+        "url": "https://unusualwhales.com/ad/darkpool-flow",
+        "first_seen": "2026-09-05",
+        "last_seen": "2026-09-26",
+        "active": true,
+        "creative_type": "video",
+        "headline": "They Know Something You Don't. Track the Smart Money.",
+        "description": "Retail sees the headline after the price moves 15%. Track options order flow, congressional trades, and dark pool sentiment in real time.",
+        "cta": "See The Flow",
+        "video_url": "https://cdn.example.com/unusual_whales_hook.mp4",
+        "landing_page": "https://unusualwhales.com",
+        "engagement_signals": {
+          "views": "850K",
+          "impressions": "3.1M",
+          "retweet_ratio": 0.038
+        },
+        "source": "apify"
+      }
+    },
+    {
+      "ad_id": "ad_003_tradingview",
+      "research_score": 80.9,
+      "score_breakdown": {
+        "recency": 22.9,
+        "niche_relevance": 16.0,
+        "creative_quality": 20.0,
+        "hook_strength": 14.0,
+        "pain_relevance": 8.0
+      },
+      "data_classification": "Observed data (dates/views/copy) vs AI interpretation (hook & pain relevance)",
+      "ad": {
+        "ad_id": "ad_003_tradingview",
+        "brand": "TradingView",
+        "platform": "Instagram & TikTok",
+        "url": "https://tradingview.com/promo/where-the-world-charts",
+        "first_seen": "2026-08-30",
+        "last_seen": "2026-09-24",
+        "active": true,
+        "creative_type": "video",
+        "headline": "Look First / Then Leap",
+        "description": "Join 50 million traders who don't trade on gut feeling alone. Social sentiment, multi-timeframe analysis, and community ideas.",
+        "cta": "Explore Charts",
+        "video_url": "https://cdn.example.com/tradingview_cinematic.mp4",
+        "landing_page": "https://tradingview.com",
+        "engagement_signals": {
+          "views": "2.8M",
+          "impressions": "9.2M",
+          "likes": 140000
+        },
+        "source": "apify"
+      }
+    },
+    {
+      "ad_id": "ad_004_finviz",
+      "research_score": 79.7,
+      "score_breakdown": {
+        "recency": 22.2,
+        "niche_relevance": 13.0,
+        "creative_quality": 20.0,
+        "hook_strength": 14.0,
+        "pain_relevance": 10.5
+      },
+      "data_classification": "Observed data (dates/views/copy) vs AI interpretation (hook & pain relevance)",
+      "ad": {
+        "ad_id": "ad_004_finviz",
+        "brand": "Finviz Elite",
+        "platform": "Google Display / Reddit",
+        "url": "https://finviz.com/elite/heatmaps",
+        "first_seen": "2026-09-09",
+        "last_seen": "2026-09-23",
+        "active": true,
+        "creative_type": "video",
+        "headline": "Cut Through the Market Noise in 3 Seconds",
+        "description": "Visual sector heatmaps, real-time news aggregation, and automated screener filters for serious retail investors.",
+        "cta": "View Live Heatmap",
+        "video_url": "https://cdn.example.com/finviz_heatmap.mp4",
+        "landing_page": "https://finviz.com/elite.ashx",
+        "engagement_signals": {
+          "views": "420K",
+          "impressions": "1.8M",
+          "ctr": 0.024
+        },
+        "source": "apify"
+      }
+    },
+    {
+      "ad_id": "ad_006_tipranks",
+      "research_score": 78.6,
+      "score_breakdown": {
+        "recency": 23.6,
+        "niche_relevance": 13.0,
+        "creative_quality": 20.0,
+        "hook_strength": 14.0,
+        "pain_relevance": 8.0
+      },
+      "data_classification": "Observed data (dates/views/copy) vs AI interpretation (hook & pain relevance)",
+      "ad": {
+        "ad_id": "ad_006_tipranks",
+        "brand": "TipRanks Smart Score",
+        "platform": "Facebook / YouTube",
+        "url": "https://tipranks.com/smart-score-ad",
+        "first_seen": "2026-09-07",
+        "last_seen": "2026-09-25",
+        "active": true,
+        "creative_type": "video",
+        "headline": "8 Factors That Actually Predict Stock Outperformance",
+        "description": "Combine Wall Street analyst consensus, hedge fund activity, and retail investor sentiment into one 1-10 Smart Score.",
+        "cta": "Check Your Stocks",
+        "video_url": "https://cdn.example.com/tipranks_score.mp4",
+        "landing_page": "https://tipranks.com",
+        "engagement_signals": {
+          "views": "940K",
+          "impressions": "3.8M",
+          "save_rate": 0.035
+        },
+        "source": "apify"
+      }
+    }
+  ]
+}
