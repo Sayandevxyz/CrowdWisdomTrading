@@ -1,0 +1,110 @@
+{
+  "concept_id": "concept_02",
+  "title": "THE MISSED MOMENT",
+  "concept": {
+    "concept_id": "concept_02",
+    "title": "THE MISSED MOMENT",
+    "big_idea": "Retail traders aren't wrong about market directions; they are simply seconds too late to the conviction shift.",
+    "target_icp": "The Overwhelmed Retail Crypto & Volatility Trader",
+    "core_pain": "The agonizing frustration of entering breakout trades right before institutional distribution pulls the rug.",
+    "emotional_arc": "High-tension anxiety & FOMO -> Slow-motion shock of being late -> Empowered transformation into early situational awareness.",
+    "visual_style": "High-Tension Cinematic Commercial. Macro close-ups of mechanical watch movements, subway doors slamming shut, red alert sirens, transitioning into a luminous radar sweep displaying early crowd accumulation.",
+    "hook": "A ticking watch hand snaps forward as a subway door slams shut in the trader's face; reflection reveals a plunging stock chart.",
+    "mechanism": "Wisdom of Crowds Divergence Index (Early Sentiment vs Price Shift)",
+    "crowdwisdom_value": "Alerts traders when collective sentiment diverges from current price action before the impulse completes.",
+    "cta": "Stop chasing after the move. Track collective conviction at CrowdWisdomTrading.com.",
+    "why_this_concept": "Taps into the core emotional trigger identified in our marketing analysis: the visceral regret of FOMO and buying the exact top.",
+    "evidence": [
+      "Apify Research: Benzinga and Unusual Whales ads emphasize 'Why retail is always late'.",
+      "CrowdWisdom Source: Case study demonstrating sentiment divergence preceding major market trend reversals (YouTube: UBvrPGMtK5g)."
+    ]
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration": 3.0,
+      "visual": "Macro close-up: A mechanical chronograph watch second-hand snapping relentlessly forward in extreme slow-motion.",
+      "camera": "Dutch angle extreme macro with anamorphic lens flare.",
+      "action": "The ticking hand hits 12; an amber warning light flashes across the metal bezel.",
+      "voiceover": "",
+      "sound_design": "Deafening mechanical gear tick echoing like a metallic gunshot.",
+      "music": "High-tension cello ostinato in rapid 16th notes.",
+      "on_screen_text": "TIMING IS EVERYTHING",
+      "transition": "Whip pan"
+    },
+    {
+      "scene_number": 2,
+      "duration": 7.0,
+      "visual": "Subway station platform. Heavy steel doors slam shut right as the trader reaches out their hand.",
+      "camera": "Tracking reverse shot pulling away from the trapped trader standing on the empty platform.",
+      "action": "In the reflection of the departing train window, a massive stock chart drops like a stone.",
+      "voiceover": "Every single day, retail traders find the right idea... exactly three minutes too late.",
+      "sound_design": "Hydraulic hiss of train doors slamming; screeching steel wheels on subway track.",
+      "music": "Heavy syncopated industrial percussion.",
+      "on_screen_text": "",
+      "transition": "Match cut"
+    },
+    {
+      "scene_number": 3,
+      "duration": 9.0,
+      "visual": "Trader stares at their phone. An alert flashes: 'Stock up 24%'. They click buy. Instant red candlestick.",
+      "camera": "Rapid crash zoom onto the red percentage dropping on the mobile screen.",
+      "action": "The trader shakes their head in sheer frustration. The word 'LIQUIDATED' or 'DRAWDOWN' blurs.",
+      "voiceover": "You chase the green candle after the smart money has already positioned. You're left holding the bag.",
+      "sound_design": "Sub-bass drop; high-frequency ringing tinnitus sound.",
+      "music": "Ominous descending orchestral riser.",
+      "on_screen_text": "THE LATE-ENTRY TRAP",
+      "transition": "Flash cut"
+    },
+    {
+      "scene_number": 4,
+      "duration": 7.0,
+      "visual": "Time reverses. The red candle pulls back up; the subway doors slide back open in reverse motion.",
+      "camera": "Smooth 180-degree camera flip as physics inverts.",
+      "action": "The trader catches the watch hand before it strikes. Everything slows down.",
+      "voiceover": "What if you could spot where true market conviction was building... before the price even moved?",
+      "sound_design": "Reverse audio cymbal swell; breath intake.",
+      "music": "Shift to atmospheric synth arpeggio.",
+      "on_screen_text": "SPOT CONVICTION FIRST",
+      "transition": "Dissolve"
+    },
+    {
+      "scene_number": 5,
+      "duration": 9.0,
+      "visual": "CrowdWisdom Divergence Radar. A split-screen showing flat stock price while crowd conviction surges.",
+      "camera": "Slow diagonal sweep across the glowing sentiment divergence chart.",
+      "action": "A golden divergence indicator illuminates, highlighting early accumulation.",
+      "voiceover": "CrowdWisdomTrading tracks crowd sentiment velocity against real-time price action to uncover early divergence.",
+      "sound_design": "Radar ping with acoustic harmonic trail.",
+      "music": "Driving, optimistic cinematic electronic beat with live drums.",
+      "on_screen_text": "SENTIMENT DIVERGENCE RADAR",
+      "transition": "Wipe"
+    },
+    {
+      "scene_number": 6,
+      "duration": 6.0,
+      "visual": "The trader catches the breakout right at the pivot point, calm and ahead of the pack.",
+      "camera": "Tracking shot following the trader walking effortlessly through a busy skyline promenade.",
+      "action": "Trader checks phone calmly: trade executed ahead of momentum.",
+      "voiceover": "Move from reactive chasing to proactive market intelligence.",
+      "sound_design": "Uplifting wind chime and resonant bass pulse.",
+      "music": "Inspiring orchestral trailer finale.",
+      "on_screen_text": "BE EARLY. BE INFORMED.",
+      "transition": "Cut to title"
+    },
+    {
+      "scene_number": 7,
+      "duration": 4.5,
+      "visual": "Sleek branding card: CrowdWisdomTrading platform displayed on mobile and ultra-wide monitor.",
+      "camera": "Gentle pull-out with volumetric cyan spotlighting.",
+      "action": "Download and web portal URL illuminate with glowing button.",
+      "voiceover": "Stop chasing yesterday's moves. Experience CrowdWisdomTrading today.",
+      "sound_design": "Crisp brand mnemonic chime.",
+      "music": "Resolving ambient major chord.",
+      "on_screen_text": "CrowdWisdomTrading.com\nNever Chase Again.",
+      "transition": "Fade to black"
+    }
+  ],
+  "total_duration": 45.5,
+  "compliance_approved": true
+}
